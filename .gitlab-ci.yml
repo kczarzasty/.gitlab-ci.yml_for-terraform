@@ -1,3 +1,4 @@
+# Use this file as a .yml config file in GitLab when deploying AWS Resources with Terraform
 image:
   name: hashicorp/terraform:light
   entrypoint:
